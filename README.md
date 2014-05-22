@@ -3,14 +3,10 @@ WhosIn
 
 Pet Social Networking Project
 
-touch README.md
+MGUI - minimalist graphical user interface
 
-git init
+User Profiles
 
-git add README.md
+User Preferences
 
-git commit -m "first commit"
-
-git remote add origin https://github.com/michaelhaymon/WhosIn.git
-
-git push -u origin master
+Search for friends
